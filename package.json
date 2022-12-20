@@ -1,0 +1,29 @@
+{
+  "name": "open-sponsorship-take-home",
+  "version": "1.0.0",
+  "description": "open-sponsorship-take-home",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "dev": "parcel client/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackdaniels/open-sponsorship-take-home.git"
+  },
+  "author": "Zack Daniels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackdaniels/open-sponsorship-take-home/issues"
+  },
+  "homepage": "https://github.com/zackdaniels/open-sponsorship-take-home#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router": "^6.5.0",
+    "react-router-dom": "^6.5.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  }
+}
